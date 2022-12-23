@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "cov", "fft", "sd")
+importFrom("pracma", "Real", "detrend", "randsample")
+importFrom("ggplot2", "ggplot", "aes", "geom_path", "labs")
