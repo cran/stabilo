@@ -2,7 +2,7 @@
 % Please edit documentation in R/sttkarea.R
 \name{sttkarea}
 \alias{sttkarea}
-\title{Quantifies the Area of a Statokinesigram}
+\title{Quantifies the Area of a Statokinesigram (Center-of-Pressure displacement)}
 \usage{
 sttkarea(dados)
 }
@@ -31,5 +31,5 @@ COParea <- sttkarea(COP)
 \code{\link[stabilo]{sttkangle}}, \code{\link[stabilo]{sttkellipseplot}}
 }
 \author{
-Jose Oliveira
+Jose Magalhaes de Oliveira
 }

@@ -1,4 +1,4 @@
-#' @title Quantifies the Area of a Statokinesigram
+#' @title Quantifies the Area of a Statokinesigram (Center-of-Pressure displacement)
 #' @name sttkarea
 #'
 #' @description Computes the area of of a given statokinesigram by fitting an ellipse containing 95 percent of statokinesigram's points.
@@ -9,7 +9,7 @@
 #'
 #' @return The area of the given statokinesigram \code{sttkarea}.
 #'
-#' @author Jose Oliveira
+#' @author Jose Magalhaes de Oliveira
 #'
 #' @seealso \code{\link[stabilo]{sttkangle}}, \code{\link[stabilo]{sttkellipseplot}}
 #'

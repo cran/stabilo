@@ -1,4 +1,5 @@
 #' @title Quantifies the length of a given Center-of-pressure trajectory (statokinesigram)
+#'
 #' @name sttklength
 #'
 #' @description Computes the length of of a given Center-of-pressure trajectory.

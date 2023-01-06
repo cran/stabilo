@@ -1,7 +1,7 @@
 Package: stabilo
 Type: Package
 Title: Stabilometric Signal Quantification
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person(given = "Jose", family = "Oliveira", , email = "josemagalhaesdeoliveira@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-6338-9792"))
@@ -16,8 +16,8 @@ Encoding: UTF-8
 Imports: ggplot2, pracma, stats
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2022-12-23 18:07:00 UTC; José
+Packaged: 2022-12-26 21:43:06 UTC; José
 Author: Jose Oliveira [aut, cre] (<https://orcid.org/0000-0002-6338-9792>)
 Maintainer: Jose Oliveira <josemagalhaesdeoliveira@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-12-23 19:40:02 UTC
+Date/Publication: 2023-01-06 22:10:02 UTC
